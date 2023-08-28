@@ -3,7 +3,7 @@
 ## Objetivo:
 ### DashBoard contendo alguns dados sobre as principais empresas Americanas...
 
-![12](https://github.com/joabeAnjos/Top-100-American-Companies/assets/112732541/f07a7b58-9df2-44f2-b2b1-4038f09e0099)
+![12](https://github.com/joabeAnjos/Top-100-American-Companies/assets/112732541/161fab7e-f577-476d-bf1f-969b9a51e214)
 
 ## Descrição do Projeto
 
